@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="cpf_playground",
-    version="0.0.1",
+    version="0.0.2",
     author="bernard_clint",
     author_email="bclintwood@gmail.com",
     description="A Brazilian CPF manipulator package",
